@@ -63514,6 +63514,12 @@ member {
   offset: 1600
 }
 member {
+  id: 0x6db0159d
+  name: "aligned_width"
+  type_id: 0xc9082b19
+  offset: 1600
+}
+member {
   id: 0x9d7710c5
   name: "alignmask"
   type_id: 0x4585663f
@@ -137699,6 +137705,12 @@ member {
   name: "inline_data"
   type_id: 0x18bd6530
   offset: 384
+}
+member {
+  id: 0x10179588
+  name: "inline_name"
+  type_id: 0x357ad64d
+  offset: 128
 }
 member {
   id: 0x10179588
@@ -249097,6 +249109,13 @@ member {
   name: "unthrottle"
   type_id: 0x0ebd5484
   offset: 896
+}
+member {
+  id: 0x058924c4
+  name: "unused"
+  type_id: 0xe62ebf07
+  offset: 61
+  bitsize: 3
 }
 member {
   id: 0x058924c4
